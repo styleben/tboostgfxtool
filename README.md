@@ -17,10 +17,9 @@ PUBG, PLAYERUNKNOWNS BATTLEGROUNDS, Genshin Impact, ASPHALT 9, Free Fire, Fortni
 If you feel that we have violated your intellectual property rights or any other agreement, please contact us by e-mail support@tboost.xyz, we will immediately take the necessary measures.
 ```
 ##LIKE US and STAY CONNECTED
-```
-[Official Website](https://www.tboost.xyz)
+[Website](https://www.tboost.xyz)
 [YouTube](https://www.youtube.com/channel/UCW316YA08yLLJUGeA3vN0mw/)
-```
+
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
